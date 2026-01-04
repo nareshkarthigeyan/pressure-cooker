@@ -1,0 +1,7 @@
+output/
+__pycache__/
+*.DS_Store
+*.stl
+*.ply
+*.pcd
+*.obj
