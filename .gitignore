@@ -5,3 +5,4 @@ __pycache__/
 *.ply
 *.pcd
 *.obj
+venv
