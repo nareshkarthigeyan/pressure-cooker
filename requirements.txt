@@ -1,3 +1,11 @@
 trimesh
 open3d
 ipynb
+ipykernel
+
+torch
+torchvision
+torchaudio
+
+numpy
+matplotlib

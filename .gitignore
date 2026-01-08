@@ -6,3 +6,9 @@ __pycache__/
 *.pcd
 *.obj
 venv
+.tar.gz
+
+cifar-10-batches-py/
+dog/
+.vscode
+.pth
