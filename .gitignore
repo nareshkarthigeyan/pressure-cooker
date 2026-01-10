@@ -1,14 +1,22 @@
-output/
-__pycache__/
-*.DS_Store
-*.stl
-*.ply
-*.pcd
-*.obj
-venv
-.tar.gz
+# Data
+testing-IGNORE/data/
+*.tar.gz
+*.zip
 
-cifar-10-batches-py/
-dog/
-.vscode
-.pth
+# Training artifacts
+*.mp4
+*.gif
+*.png
+*.jpg
+*.jpeg
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/

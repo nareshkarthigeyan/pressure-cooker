@@ -9,3 +9,6 @@ torchaudio
 
 numpy
 matplotlib
+
+datasets
+einops
