@@ -15,6 +15,23 @@ testing-IGNORE/data/
 *.pth
 *.ckpt
 
+# Data & weights
+testing-IGNORE/data/
+*.tar.gz
+*.pth
+*.pt
+*.ckpt
+
+# Artifacts
+*.mp4
+*.gif
+*.png
+*.jpg
+output/
+
+# Editor
+.vscode/
+
 # Notebooks
 .ipynb_checkpoints/
 
